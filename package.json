@@ -25,7 +25,12 @@
         "type": "git",
         "url": "https://github.com/BlackrockDigital/startbootstrap-business-casual.git"
     },
+    "engines": {
+        "node": "v8.11.1",
+        "npm": "5.6.0"
+    },
     "dependencies": {
+        "express": "4.13.x",
         "bootstrap": "4.0.0",
         "jquery": "3.3.1"
     },
